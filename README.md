@@ -1,1 +1,1 @@
-I've created three roles using this app (Employee, Manager, Admin) which have different access to some CRUD features (only Admins can delete) and a login feature using Spring Security to encrypt passwords in db with bcrypt. I also used Thymeleaf as template engine. 
+I've created three roles using this app (Employee, Manager, Admin) which have different access to some CRUD and SEARCH features (only Admins can delete) and a login feature using Spring Security to encrypt passwords in db with bcrypt. I also used Thymeleaf as template engine. 
